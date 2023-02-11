@@ -6,7 +6,7 @@
 
 call on the phone ... write an email ... or on ham radio band.
 
-db9ds vy 73
+vy 73 stephan db9ds 
 
 <!---
 handu72/handu72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
